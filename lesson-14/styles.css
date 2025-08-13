@@ -1,0 +1,22 @@
+.tb6 
+{
+     border-collapse: collapse;
+}
+.tb6 tr:nth-child(even) 
+{ 
+    background:#f0f0f0; 
+}
+.tb6 tr:hover td
+ { 
+    background:rgb(10, 149, 230);
+ }
+.tb6, .tb6 th, .tb6 td 
+{
+     border:1px solid #050404; padding:8px;
+}
+td , th 
+{ text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+width: 200px;
+height: 50px;
+}
