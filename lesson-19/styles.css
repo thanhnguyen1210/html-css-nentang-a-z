@@ -1,0 +1,26 @@
+.class1 
+{
+    color: red;
+    font-size: 20px;
+    background-color: violet;
+}
+.class2 
+{
+    color: orange;
+    font-size: 22px;
+    background-color: pink;
+    width: 100px;
+}
+#id1 
+{
+    color: blue;
+    font-size: 30px;
+    background-color: yellow;
+}
+.group-class 
+{
+    color: green;
+    font-size: 25px;
+    background-color: lightgray;
+    margin: 10px 0;
+}

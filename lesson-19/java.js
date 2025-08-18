@@ -1,0 +1,10 @@
+console.log("JavaScript file loaded successfully");
+const elById = document.getElementById("id1");
+console.log('elById:', elById);
+elById.style.color = "blue";
+elById.style.backgroundColor = "lightblue";
+const elByClass = document.getElementsByClassName("class1");
+console.log('elByClass:', elByClass);
+elByClass[0].style.color = "crimson";
+const group= document.getElementsByClassName("group-class");
+console.log('group:', group);
